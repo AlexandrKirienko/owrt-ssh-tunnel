@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # URL репозитория
-REPO_URL="https://raw.githubusercontent.com/your_github_username/owrt-ssh-tunnel/main"
+REPO_URL="https://raw.githubusercontent.com/AlexandrKirienko/owrt-ssh-tunnel/main"
 INSTALL_DIR="/usr/bin/owrt-ssh-tunnel"
 
 echo "Обновление owrt-ssh-tunnel..."
