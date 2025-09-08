@@ -6,7 +6,7 @@ SERVER_USER="your_server_user"
 SERVER_PASSWORD="your_server_password" # Внимание: хранение пароля в скрипте не безопасно!
 
 # URL репозитория
-REPO_URL="https://raw.githubusercontent.com/your_github_username/owrt-ssh-tunnel/main"
+REPO_URL="https://raw.githubusercontent.com/AlexandrKirienko/owrt-ssh-tunnel/main"
 INSTALL_DIR="/usr/bin/owrt-ssh-tunnel"
 
 echo "Установка owrt-ssh-tunnel..."
